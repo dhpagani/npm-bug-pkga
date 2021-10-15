@@ -1,6 +1,10 @@
 {
   "name": "pkg-a",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhpagani/npm-bug-pkga.git"
+  },
   "dependencies": {
     "jquery": "~3.1.0",
     "jquery-ui": "~1.12.0",
