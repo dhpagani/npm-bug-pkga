@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build2": "echo 'Strange message, don't you think? '"
+    "build": "echo 'Strange message, don't you think? '"
   },
   "dependencies": {
     "jquery": "~3.1.0",
