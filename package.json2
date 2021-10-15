@@ -1,25 +1,9 @@
 {
-  "name": "pkga",
+  "name": "pkg-a",
   "version": "1.0.0",
-  "description": "",
-  "private": true,
-  "scripts": {
-    "build": "grunt",
-    "test": "karma start karma.conf.js"
+  "author": {
+    "name": "xaxaxaxaxa"
   },
-  "keywords": [
-    "gridstack",
-    "grid",
-    "gridster",
-    "layout",
-    "jquery"
-  ],
-  "author": "Pavel Reznikov <pashka.reznikov@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/troolee/gridstack.js/issues"
-  },
-  "homepage": "http://troolee.github.io/gridstack.js/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dhpagani/npm-bug-pkga.git"
