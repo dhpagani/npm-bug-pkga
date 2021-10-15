@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "test": "karma start karma.conf.js"
+    "build": "grunt"
   },
   "keywords": [
     "gridstack",
