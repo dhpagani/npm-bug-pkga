@@ -4,7 +4,6 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "grunt",
     "test": "karma start karma.conf.js"
   },
   "keywords": [
