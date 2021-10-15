@@ -4,24 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "echo 'Strange message, don't you think? '"
-  },
-  "keywords": [
-    "gridstack",
-    "grid",
-    "gridster",
-    "layout",
-    "jquery"
-  ],
-  "author": "Pavel Reznikov <pashka.reznikov@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/troolee/gridstack.js/issues"
-  },
-  "homepage": "http://troolee.github.io/gridstack.js/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dhpagani/npm-bug-pkga.git"
+    "build2": "echo 'Strange message, don't you think? '"
   },
   "dependencies": {
     "jquery": "~3.1.0",
