@@ -4,12 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": " falhar comando estraga?"
-  },
-  "dependencies": {
-    "jquery": "~3.1.0",
-    "jquery-ui": "~1.12.0",
-    "lodash": "^4.14.2"
+    "build": "echo 'Example'"
   },
   "devDependencies": {
     "grunt-sass": "^1.1.0"
