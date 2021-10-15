@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "echo 'Strange message, don't you think? '"
+    "build": " falhar comando estraga?"
   },
   "dependencies": {
     "jquery": "~3.1.0",
